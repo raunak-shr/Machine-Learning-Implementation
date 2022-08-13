@@ -11,8 +11,8 @@ implementation out there.**
 <img src = "https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=orange">
 <img src = "https://img.shields.io/badge/Pandas-3399FF?style=for-the-badge&logo=pandas&logoColor=white">
 <img src = "https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue">
-<img src = "https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=blue">
-<img src = "https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=seaborb&logoColor=blue">
+<img src = "https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=blue">
+<img src = "https://img.shields.io/badge/Seaborn-3399FF?style=for-the-badge&logo=seaborn&logoColor=blue">
 
 ---
 There are three main folders - 
