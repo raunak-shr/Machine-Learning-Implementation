@@ -32,18 +32,18 @@ the model after prediction on test examples.
 ### Algorithms using Scikit Learn 
 
 The 2nd folder contains the algorithms built using Sci-Kit Learn. This section implements the algorithms taking use of all libraries. This section too focuses on 
-model evaluation by using traaditional metrics intended for each of the algorithm.
+model evaluation by using traditional metrics intended for each of the algorithm.
 
 ### Pre-requisites/Tutorials 
-The 3rd folder contains jupyter notebooks with tutorials to NumPy, Pandas, Matplotlib and Seaborn. There's also a <a href = "https://github.com/raunak-shr/ML-Library-Prerequisites">seperate repo</a> for all the tutorials with their respective Jupyter notebooks out there.
+The 3rd folder contains jupyter notebooks with tutorials to NumPy, Pandas, Matplotlib and Seaborn. There's also a <a href = "https://github.com/raunak-shr/ML-Library-Prerequisites">seperate repo</a> of mine for all the tutorials with their respective Jupyter notebooks out there. These notebooks are just for reference purposes and **do not** aim to totally summarize the libraries. Nevertheless, I've tried my best to cover as much as possible.
 
 
 Note that, this repo is not complete. I intend to keep working on it with learning on the go throughout my journey.
 
 ---
 ## Contact
-<a href = "https://www.linkedin.com/in/shreeyansh-das/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto: raunak.dvm@gmail.com" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/shreeyansh-das/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto: raunak.dvm@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
 Thanks,
 Shreeyansh Das :)
