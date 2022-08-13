@@ -6,9 +6,14 @@ implementation out there.**
 
 ## Toolkit
 ---
-<img src = "https://img.shields.io/badge/Python-FF6F00?style=for-the-badge&logo=python&logoColor=blue">
-<img src = "https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=orange">
-<img src = "https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white">
+<img src = "https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue">
+<img src = "https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange">
+<img src = "https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=orange">
+<img src = "https://img.shields.io/badge/Pandas-3399FF?style=for-the-badge&logo=pandas&logoColor=white">
+<img src = "https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue">
+<img src = "https://img.shields.io/badge/Matplotlib-FFFFFF?style=for-the-badge&logo=matplotlib&logoColor=blue">
+<img src = "https://img.shields.io/badge/Seaborn-FFFFFF?style=for-the-badge&logo=seaborb&logoColor=blue">
+
 ---
 There are three main folders - 
 1. Algorithms from Scratch
@@ -27,8 +32,7 @@ the model after prediction on test examples.
 The 2nd folder contains the algorithms built using Sci-Kit Learn. This section implements the algorithms taking use of all libraries. This section too focuses on 
 model evaluation by using traaditional metrics intended for each of the algorithm.
 
-## Pre-requisites/Tutorials <img src = "https://img.shields.io/badge/Jupyter-FF6F00?style=for-the-badge&logo=jupyter&logoColor=white">
-
+## Pre-requisites/Tutorials 
 The 3rd folder contains jupyter notebooks with tutorials to NumPy, Pandas, Matplotlib and Seaborn. There's also a seperate repo for all the tutorials with their 
 respective Jupyter notebooks out there.
 
