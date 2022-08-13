@@ -17,9 +17,9 @@ implementation out there.**
 ---
 ## Description
 There are three main folders - 
-1. Algorithms from Scratch
-2. Algorithms using Scikit Learn
-3. Pre-requisites/Tutorials
+1. <a href = "https://github.com/raunak-shr/Machine-Learning-Implementation/tree/main/Algorithms%20from%20Scratch">Algorithms from Scratch</a>
+2. <a href = "https://github.com/raunak-shr/Machine-Learning-Implementation/tree/main/Algorithms%20from%20Scratch">Algorithms using Scikit Learn</a>
+3. <a href = "https://github.com/raunak-shr/Machine-Learning-Implementation/tree/main/Pre-requisites">Pre-requisites</a>
 
 ### Algorithms from Scratch
 
@@ -34,10 +34,10 @@ The 2nd folder contains the algorithms built using Sci-Kit Learn. This section i
 model evaluation by using traaditional metrics intended for each of the algorithm.
 
 ### Pre-requisites/Tutorials 
-The 3rd folder contains jupyter notebooks with tutorials to NumPy, Pandas, Matplotlib and Seaborn. There's also a seperate repo for all the tutorials with their 
-respective Jupyter notebooks out there.
+The 3rd folder contains jupyter notebooks with tutorials to NumPy, Pandas, Matplotlib and Seaborn. There's also a <a href = "https://github.com/raunak-shr/ML-Library-Prerequisites">seperate repo</a> for all the tutorials with their respective Jupyter notebooks out there.
 
-Note that, the repo is not complete. I intend to keep working on it with learning on the go throughout my journey.
+
+Note that, this repo is not complete. I intend to keep working on it with learning on the go throughout my journey.
 
 ---
 ## Contact
