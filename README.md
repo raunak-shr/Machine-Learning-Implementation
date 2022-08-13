@@ -6,13 +6,13 @@ implementation out there.**
 
 ## Toolkit
 ---
-<a href = "https://python.org/"><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
-<a href = "https://jupyter.org/"><img src = "https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange"></a>
-<a href = "https://scikit-learn.org/"><img src = "https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=orange"></a>
-<a href = "https://pandas.pydata.org/"><img src = "https://img.shields.io/badge/Pandas-3399FF?style=for-the-badge&logo=pandas&logoColor=white"></a>
-<a href = "https://numpy.org/"><img src = "https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue"></a>
-<a href = "https://matplotlib.org/"><img src = "https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=blue"></a>
-<a href = "https://seaborn.pydata.org/"><img src = "https://img.shields.io/badge/Seaborn-3399FF?style=for-the-badge&logo=seaborn&logoColor=blue"></a>
+<a href = "https://python.org/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href = "https://jupyter.org/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange"></a>
+<a href = "https://scikit-learn.org/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=orange"></a>
+<a href = "https://pandas.pydata.org/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/Pandas-3399FF?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href = "https://numpy.org/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue"></a>
+<a href = "https://matplotlib.org/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=blue"></a>
+<a href = "https://seaborn.pydata.org/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/Seaborn-3399FF?style=for-the-badge&logo=seaborn&logoColor=blue"></a>
 
 ---
 ## Description
@@ -41,7 +41,8 @@ Note that, this repo is not complete. I intend to keep working on it with learni
 
 ---
 ## Contact
-<a href = "https://www.linkedin.com/in/shreeyansh-das/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href = "mailto: raunak.dvm@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href = "https://www.linkedin.com/in/shreeyansh-das/" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href = "mailto: raunak.dvm@gmail.com" target="_blank" rel="noopener noreferrer"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 
-Thanks
+Thanks,
+Shreeyansh Das :)
