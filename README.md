@@ -14,7 +14,7 @@ implementation out there.**
 <a href = "https://matplotlib.org/"><img src = "https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=blue"></a>
 <a href = "https://seaborn.pydata.org/"><img src = "https://img.shields.io/badge/Seaborn-3399FF?style=for-the-badge&logo=seaborn&logoColor=blue"></a>
 <a href = "https://www.latex-project.org/"><img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
-
+<a href = "https://stackoverflow.com/"><img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 ---
 ## Description
 There are three main folders - 
@@ -40,7 +40,9 @@ The 3rd folder contains jupyter notebooks with tutorials to NumPy, Pandas, Matpl
 
 Note that, this repo is not complete. I intend to keep working on it with learning on the go throughout my journey.
 
----
+## My Workspace
+<img src = "https://img.shields.io/badge/asus%20laptop-000000?style=for-the-badge&logo=asus&logoColor=white"><img src = "https://img.shields.io/badge/Intel%20Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white"><img src = "https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+
 ## Contact
 <a href = "https://www.linkedin.com/in/shreeyansh-das/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "mailto: raunak.dvm@gmail.com" target="_blank"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
