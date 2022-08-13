@@ -6,13 +6,13 @@ implementation out there.**
 
 ## Toolkit
 ---
-<img src = "https://img.shields.io/badge/Python-FFFFFF?style=for-the-badge&logo=python&logoColor=blue">
-<img src = "https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange">
-<img src = "https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=orange">
-<img src = "https://img.shields.io/badge/Pandas-3399FF?style=for-the-badge&logo=pandas&logoColor=white">
-<img src = "https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue">
-<img src = "https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=blue">
-<img src = "https://img.shields.io/badge/Seaborn-3399FF?style=for-the-badge&logo=seaborn&logoColor=blue">
+<a href = "https://python.org/"><img src = "ttps://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href = "https://jupyter.org/"><img src = "https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange"></a>
+<a href = "https://scikit-learn.org/"><img src = "https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=orange"></a>
+<a href = "https://pandas.pydata.org/"><img src = "https://img.shields.io/badge/Pandas-3399FF?style=for-the-badge&logo=pandas&logoColor=white"></a>
+<a href = "https://numpy.org/"><img src = "https://img.shields.io/badge/Numpy-FFFFFF?style=for-the-badge&logo=numpy&logoColor=blue"></a>
+<a href = "https://matplotlib.org/"><img src = "https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=blue"></a>
+<a href = "https://seaborn.pydata.org/"><img src = "https://img.shields.io/badge/Seaborn-3399FF?style=for-the-badge&logo=seaborn&logoColor=blue"></a>
 
 ---
 There are three main folders - 
@@ -27,7 +27,7 @@ Data Exploration and Visualization. The algorithms have a section called Calcula
 and then implementing it on all the examples just using pure Python and NumPy. All the algorithms have a Model Performance section to evaluate the performance of 
 the model after prediction on test examples.
 
-## Algorithms using Scikit Learn <img src = "https://img.shields.io/badge/ScikitLearn-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white">
+## Algorithms using Scikit Learn 
 
 The 2nd folder contains the algorithms built using Sci-Kit Learn. This section implements the algorithms taking use of all libraries. This section too focuses on 
 model evaluation by using traaditional metrics intended for each of the algorithm.
