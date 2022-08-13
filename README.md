@@ -42,4 +42,5 @@ Note that, the repo is not complete. I intend to keep working on it with learnin
 ## Contact
 <a href = "https://www.linkedin.com/in/shreeyansh-das/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href = "mailto: raunak.dvm@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+
 Thanks
