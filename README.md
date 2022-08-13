@@ -6,7 +6,7 @@ implementation out there.**
 
 ## Toolkit
 ---
-<a href = "https://python.org/"><img src = "ttps://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
+<a href = "https://python.org/"><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 <a href = "https://jupyter.org/"><img src = "https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange"></a>
 <a href = "https://scikit-learn.org/"><img src = "https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=orange"></a>
 <a href = "https://pandas.pydata.org/"><img src = "https://img.shields.io/badge/Pandas-3399FF?style=for-the-badge&logo=pandas&logoColor=white"></a>
