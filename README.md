@@ -5,7 +5,7 @@ Note that the **aim is to understand the math behind the algorithms and implemen
 implementation out there.** 
 
 ## Toolkit
----
+
 <a href = "https://python.org/"><img src = "https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"></a>
 <a href = "https://jupyter.org/"><img src = "https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=orange"></a>
 <a href = "https://scikit-learn.org/"><img src = "https://img.shields.io/badge/ScikitLearn-FFFFFF?style=for-the-badge&logo=scikitlearn&logoColor=orange"></a>
@@ -15,7 +15,7 @@ implementation out there.**
 <a href = "https://seaborn.pydata.org/"><img src = "https://img.shields.io/badge/Seaborn-3399FF?style=for-the-badge&logo=seaborn&logoColor=blue"></a>
 <a href = "https://www.latex-project.org/"><img src = "https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white"></a>
 <a href = "https://stackoverflow.com/"><img src = "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
----
+
 ## Description
 There are three main folders - 
 1. <a href = "https://github.com/raunak-shr/Machine-Learning-Implementation/tree/main/Algorithms%20from%20Scratch">Algorithms from Scratch</a>
